@@ -6,18 +6,26 @@
   
 ## En développement
 
+Rapport de bugs, **section issues**
+
 ## Installation
 
-Depuis le git
+**Depuis le git**
 
+```
 git clone https://github.com/CyrilleBiot/pycpulimit-gtk.git
 $ cd pycpulimit-gtk/
 $ ./source/pycpulimit.py
+```
 
+**Depuis les paquets deb**
 
-Depuis les paquets deb
-wget <le-paquet.deb>
-apt install <le-paquet.deb>
+```
+wget https://github.com/CyrilleBiot/pycpulimit-gtk/blob/main/pycpulimit-gtk_1.1.0_all.deb
+apt install pycpulimit-gtk_1.1.0_all.deb
+```
+
+(à adpater à la version du paquet)
 
 
 ## Screenshoots
