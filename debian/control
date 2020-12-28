@@ -1,0 +1,12 @@
+Source: pycpulimit-gtk
+Section: utils
+Priority: extra
+Maintainer: Cyrille Biot <cyrille@cbiot.fr>
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/CyrilleBiot/pycpulimit-gtk
+
+Package: pycpulimit-gtk
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3, python3-gi, cpulimit
+Homepage: https://github.com/CyrilleBiot/pycpulimit-gtk
+Description: Frontend GTK to CPULIMIT

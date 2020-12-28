@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0.0
+Name=Python CPU Limit
+Comment=Frontend GTK à CPULIMIT
+Exec=/usr/share/pycpulimit/pycpulimit.py
+Icon=/usr/share/pycpulimit/apropos.png
+Terminal=False
+Type=Application
+Categories=Utility
+Keywords=cpulimit;Utils;
+Name[fr_FR]=Frontend GTK à CPULIMIT
+Name[fr_FR.UTF-8]=Frontend GTK à CPULIMIT
+Name[fr_FR.utf8]=Frontend GTK à CPULIMIT

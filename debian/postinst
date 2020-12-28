@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "-----------------------------------------------------------------------"
+echo "Create sym links"
+ln -sf /usr/share/pycpulimit/pycpulimit.py /usr/bin/pycpulimit
+echo "Symbolic links created."
+ls -l /usr/bin/pycpulimit
+echo "-----------------------------------------------------------------------"
+exit 0
