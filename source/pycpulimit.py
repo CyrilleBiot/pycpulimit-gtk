@@ -88,7 +88,7 @@ class cpulimit(Gtk.Window):
     def on_button_pressed(self, widget):
         if self.entry_command.get_text() != "":
             self.label_waiting.set_name("text-red")
-            self.label_waiting.set_text("WAITING DURANT PROCESS")
+            self.label_waiting.set_text("WAITING DURING PROCESS")
 
     def on_button_released(self, widget):
         if self.entry_command.get_text() != "":
