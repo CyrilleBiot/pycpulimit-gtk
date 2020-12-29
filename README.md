@@ -14,8 +14,8 @@ Rapport de bugs, **section issues**
 
 ```
 git clone https://github.com/CyrilleBiot/pycpulimit-gtk.git
-$ cd pycpulimit-gtk/
-$ ./source/pycpulimit.py
+$ cd pycpulimit-gtk/source
+$ ./pycpulimit.py
 ```
 
 **Depuis les paquets deb**
